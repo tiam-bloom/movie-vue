@@ -17,3 +17,9 @@ npm run dev # 运行
 - Axios
 - VueRouter
 - Swiper
+
+## 运行截图
+
+![image-20230516110826002](http://qiniu.yujing.fit/typora_img/image-20230516110826002.png)
+
+![image-20230516110809747](http://qiniu.yujing.fit/typora_img/image-20230516110809747.png)
